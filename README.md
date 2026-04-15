@@ -7,7 +7,6 @@ Full-stack engineer with an IT & security background.
 I build production-grade web apps — from React frontends
 to FastAPI backends, deployed on DigitalOcean with Docker.
 
-🌐 frandycode.dev · 📬 linkedin.com/in/frandycode
 
 ## Stack
 
