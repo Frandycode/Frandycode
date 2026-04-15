@@ -19,6 +19,9 @@ to FastAPI backends, deployed on DigitalOcean with Docker.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## What I'm building
 
@@ -38,6 +41,6 @@ and systems from day one.
 
 ## Connect
 
-- 🌐 [frandycode.dev](https://frandycode.dev)
-- 💼 [linkedin.com/in/frandycode](https://linkedin.com/in/frandycode)
-- ✍️ [medium.com/@frandyslueue](https://medium.com/@frandyslueue)
+[![Portfolio](https://img.shields.io/badge/frandycode.dev-0080FF?style=flat-square&logo=google-chrome&logoColor=white)](https://frandycode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/frandycode)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@frandyslueue)
